@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+###### Meu nome é Fabian. 
+Estou cursando Sistemas de Informação, uma área que desperta minha curiosidade e dedicação. Sinto grande prazer em enfrentar desafios, sempre buscando expandir meu conhecimento e alcançar crescimento intelectual e profissional. Aqui, compartilho uma parte dos meus estudos e projetos pessoais. Sinta-se à vontade para explorar e conhecer mais sobre meu percurso!
+
 <!--
 **fabiansmelo/fabiansmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
