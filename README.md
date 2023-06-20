@@ -6,3 +6,7 @@ Estou cursando Sistemas de Informação, uma área que desperta minha curiosidad
 ### Detalhes
 
 [![Anurag's Github Stats](https://github-readme-stats.vercel.app/api?username=fabiansmelo&show_icons=true&theme-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens Utilizadas 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiansmelo)](https://github.com/anuraghazra/github-readme-stats)
